@@ -1,0 +1,11 @@
+# default.custom.yaml
+patch:
+  switcher:
+    caption: "「切换方案」"
+    hotkeys:
+      - "Control+grave"
+      - "F4"
+  schema_list:
+    - schema: cqyx
+  menu:
+    page_size: 5
